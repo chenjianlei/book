@@ -5,6 +5,6 @@
   * 工作
   * 生活
   * 学习
-  * 旅游
+  * [旅游](chen-jian-lei/lv-you.md)
   * [读书](chen-jian-lei/du-shu.md)
 
