@@ -1,4 +1,4 @@
 # 陈建蕾
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+享生活，享自由
 
