@@ -20,5 +20,11 @@
 >
 > 2、scrollView内部的子控件的约束必须完整
 
+##### 4、2018 - 8 - 4
+
+> cocoapods 制作framework
+>
+> 先提交版本，然后制作framework，删除版本号，重新提交framework作为版本号
+
 
 
