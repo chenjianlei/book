@@ -30,7 +30,7 @@
 >
 > cd shell
 >
-> chmod x /.demo.sh
+> chmod  +x ./demo.sh
 
 
 
