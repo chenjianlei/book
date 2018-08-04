@@ -22,11 +22,15 @@
 
 ##### 4、2018 - 8 - 4
 
-> cocoapods 制作framework
+> 1、cocoapods 制作framework
 >
 > 先提交版本，然后制作framework，删除版本号，重新提交framework作为版本号
 >
-> 学习了 Shell 脚本，为自己写了一个见的代码push到仓库的脚本
+> 2、学习了 Shell 脚本，为自己写了一个见的代码push到仓库的脚本
+>
+> cd shell
+>
+> chmod x /.demo.sh
 
 
 
