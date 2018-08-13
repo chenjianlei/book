@@ -32,5 +32,19 @@
 >
 > chmod  +x ./demo.sh
 
+##### 5、2018 - 8 -13
+
+> Swift关键字
+>
+> guard
+>
+> if let
+>
+> if case
+>
+> if case let
+
+
+
 
 
